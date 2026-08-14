@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://dev-nexus.pages.dev/logo.png" width="96" alt="DevX" />
+<img src="https://xtop.pages.dev/logo.png" width="96" alt="XTop" />
 
-# DevX
+# XTop
 
 **زرار واحد… ومساحة شغلك كلها.**
 
 لوحة عائمة للمطوّرين — دوّر على مشاريعك، افتحها في المحرر الصح والترمنال الصح،
 وخلّي الملاحظات والـ API والـ git والاجتماعات والتذكيرات على بُعد ضغطة زرار.
 
-[![تحميل](https://img.shields.io/badge/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-v0.2.11-0b6fc4?style=for-the-badge)](https://github.com/kareem-elgamal/devX/releases/latest)
-[![الوثائق](https://img.shields.io/badge/docs-dev--nexus.pages.dev-6b3fb0?style=for-the-badge)](https://dev-nexus.pages.dev/ar/)
-[![ويندوز](https://img.shields.io/badge/Windows-10%20%2F%2011-555?style=for-the-badge)](https://dev-nexus.pages.dev/ar/guide/download)
+[![تحميل](https://img.shields.io/badge/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-v0.2.11-0b6fc4?style=for-the-badge)](https://github.com/kareem-elgamal/XTop/releases/latest)
+[![الوثائق](https://img.shields.io/badge/docs-xtop.pages.dev-6b3fb0?style=for-the-badge)](https://xtop.pages.dev/ar/)
+[![ويندوز](https://img.shields.io/badge/Windows-10%20%2F%2011-555?style=for-the-badge)](https://xtop.pages.dev/ar/guide/download)
 
-[English](README.md) · [الوثائق](https://dev-nexus.pages.dev/ar/) · [التحميل](https://github.com/kareem-elgamal/devX/releases/latest)
+[English](README.md) · [الوثائق](https://xtop.pages.dev/ar/) · [التحميل](https://github.com/kareem-elgamal/XTop/releases/latest)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://dev-nexus.pages.dev/shots/panel-ar-dark.png">
-  <img src="https://dev-nexus.pages.dev/shots/panel-ar-light.png" width="620" alt="لوحة DevX: المجموعات والمشاريع وأيقونات الخدمات.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://xtop.pages.dev/shots/panel-ar-dark.png">
+  <img src="https://xtop.pages.dev/shots/panel-ar-light.png" width="620" alt="لوحة XTop: المجموعات والمشاريع وأيقونات الخدمات.">
 </picture>
 
 </div>
@@ -26,12 +26,12 @@
 
 ## التحميل
 
-**[⭳ حمّل DevX ←](https://github.com/kareem-elgamal/devX/releases/latest)**
+**[⭳ حمّل XTop ←](https://github.com/kareem-elgamal/XTop/releases/latest)**
 
 | الملف | هو إيه |
 | --- | --- |
-| **`DevX Setup <version>.exe`** | المثبّت. بيضيف اختصار في قائمة ابدأ وعلى سطح المكتب، وأداة إلغاء تثبيت. خُد ده. |
-| **`DevX-portable-<version>.exe`** | ملف واحد بيشتغل على طول. مناسب للفلاشة أو لجهاز مش قادر تثبّت عليه. |
+| **`XTop Setup <version>.exe`** | المثبّت. بيضيف اختصار في قائمة ابدأ وعلى سطح المكتب، وأداة إلغاء تثبيت. خُد ده. |
+| **`XTop-portable-<version>.exe`** | ملف واحد بيشتغل على طول. مناسب للفلاشة أو لجهاز مش قادر تثبّت عليه. |
 
 الاتنين نفس البرنامج، ومحدش فيهم محتاج Node.js ولا أي حاجة تتثبّت الأول.
 
@@ -39,49 +39,49 @@
 > البرنامج مش موقّع رقميًا، فـ SmartScreen هيقول إن الناشر غير معروف.
 > اختار **More info → Run anyway**.
 
-DevX برنامج **ويندوز**. بيفتح المحرر بتاعك، وبيشغّل Windows Terminal و WSL،
+XTop برنامج **ويندوز**. بيفتح المحرر بتاعك، وبيشغّل Windows Terminal و WSL،
 ومحتاج جلسة سطح مكتب ويندوز عشان أيقونة شريط المهام والزر العائم.
 
 ## بعد ما يشتغل
 
-DevX مش بيفتح نافذة خاصة بيه — بيروح لـ **شريط المهام**، وبيحط زر عائم صغير على
+XTop مش بيفتح نافذة خاصة بيه — بيروح لـ **شريط المهام**، وبيحط زر عائم صغير على
 سطح المكتب. اضغط <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Space</kbd>، أو اضغط الزر
 العائم، أو أيقونة شريط المهام، عشان تفتح اللوحة — وخانة البحث بتكون جاهزة على طول.
 
-كمّل من **[البداية ←](https://dev-nexus.pages.dev/ar/guide/getting-started)**
+كمّل من **[البداية ←](https://xtop.pages.dev/ar/guide/getting-started)**
 
 ## اللي جواه
 
 | | |
 | --- | --- |
-| **[مشاريعك بأي اسم](https://dev-nexus.pages.dev/ar/services/panel)** | مجموعات وأسماء بديلة وبحث مرن. `Enter` بيفتح المحرر، و `Shift+Enter` بيفتح ترمنال — في ويندوز أو في WSL حسب المشروع. |
-| **[أوامر سريعة في ترمنال حقيقي](https://dev-nexus.pages.dev/ar/services/commands-terminal)** | أوامر لكل مشروع ولكل مجموعة وأوامر عامة، بتشتغل في جلسة pty بتبويبات محتفظة بالمخرجات. |
-| **[اختبار API عارف مشروعك](https://dev-nexus.pages.dev/ar/services/api)** | الـ base URL بييجي من `.env` بتاع المشروع نفسه، والطلبات المحفوظة بتتخزن جوه المشروع، و `Ctrl+Shift+A` بيفتح تبويب سريع من الكليب بورد. |
-| **[اجتماعات مفرَّغة على جهازك](https://dev-nexus.pages.dev/ar/services/meetings)** | المايك وصوت النظام، التفريغ بيتم على جهازك بـ Whisper، وبعدين تلخيص لقرارات ومهام. |
-| **[ملاحظات Markdown على الهارد](https://dev-nexus.pages.dev/ar/services/notes)** | دفتر عام + ملاحظات لكل مشروع، ملفات `.md` تقدر تعملها commit أو sync أو grep. |
-| **[معلومات Git](https://dev-nexus.pages.dev/ar/services/git)** | الفرع الحالي، وكام commit قدام/ورا، وحالة الملفات، وتبديل الفروع، والرسم البياني للـ commits. |
-| **[مواقيت الصلاة والأذكار](https://dev-nexus.pages.dev/ar/services/islamic)** | تنبيه بعد الأذان بدقائق، وزرار تأجيل بيهرب من الماوس، وأذكار الصباح والمساء بعدّادات. |
-| **[التذكيرات](https://dev-nexus.pages.dev/ar/services/reminders)** | مرة واحدة أو متكررة، مع تأجيل، وبتفضل شغّالة حتى لو البرنامج اتقفل. |
-| **[النسخ الاحتياطي والاستعادة](https://dev-nexus.pages.dev/ar/services/backup)** | نسخة `.zip` بضغطة أو بجدول زمني، في أي فولدر — وممكن يكون فولدر مزامن مع السحابة. |
-| **[مشاريع بدء التشغيل](https://dev-nexus.pages.dev/ar/services/startup)** | مشاريع بتفتح نفسها في المحرر أو الترمنال أول ما البرنامج يشتغل. |
+| **[مشاريعك بأي اسم](https://xtop.pages.dev/ar/services/panel)** | مجموعات وأسماء بديلة وبحث مرن. `Enter` بيفتح المحرر، و `Shift+Enter` بيفتح ترمنال — في ويندوز أو في WSL حسب المشروع. |
+| **[أوامر سريعة في ترمنال حقيقي](https://xtop.pages.dev/ar/services/commands-terminal)** | أوامر لكل مشروع ولكل مجموعة وأوامر عامة، بتشتغل في جلسة pty بتبويبات محتفظة بالمخرجات. |
+| **[اختبار API عارف مشروعك](https://xtop.pages.dev/ar/services/api)** | الـ base URL بييجي من `.env` بتاع المشروع نفسه، والطلبات المحفوظة بتتخزن جوه المشروع، و `Ctrl+Shift+A` بيفتح تبويب سريع من الكليب بورد. |
+| **[اجتماعات مفرَّغة على جهازك](https://xtop.pages.dev/ar/services/meetings)** | المايك وصوت النظام، التفريغ بيتم على جهازك بـ Whisper، وبعدين تلخيص لقرارات ومهام. |
+| **[ملاحظات Markdown على الهارد](https://xtop.pages.dev/ar/services/notes)** | دفتر عام + ملاحظات لكل مشروع، ملفات `.md` تقدر تعملها commit أو sync أو grep. |
+| **[معلومات Git](https://xtop.pages.dev/ar/services/git)** | الفرع الحالي، وكام commit قدام/ورا، وحالة الملفات، وتبديل الفروع، والرسم البياني للـ commits. |
+| **[مواقيت الصلاة والأذكار](https://xtop.pages.dev/ar/services/islamic)** | تنبيه بعد الأذان بدقائق، وزرار تأجيل بيهرب من الماوس، وأذكار الصباح والمساء بعدّادات. |
+| **[التذكيرات](https://xtop.pages.dev/ar/services/reminders)** | مرة واحدة أو متكررة، مع تأجيل، وبتفضل شغّالة حتى لو البرنامج اتقفل. |
+| **[النسخ الاحتياطي والاستعادة](https://xtop.pages.dev/ar/services/backup)** | نسخة `.zip` بضغطة أو بجدول زمني، في أي فولدر — وممكن يكون فولدر مزامن مع السحابة. |
+| **[مشاريع بدء التشغيل](https://xtop.pages.dev/ar/services/startup)** | مشاريع بتفتح نفسها في المحرر أو الترمنال أول ما البرنامج يشتغل. |
 
 عربي وإنجليزي في كل النوافذ، الإنجليزية هي الافتراضية، و RTL كامل مع العربية.
 
 ## الوثائق
 
-كل حاجة على **[dev-nexus.pages.dev](https://dev-nexus.pages.dev/ar/)** بالعربي والإنجليزي:
+كل حاجة على **[xtop.pages.dev](https://xtop.pages.dev/ar/)** بالعربي والإنجليزي:
 
-- [البداية](https://dev-nexus.pages.dev/ar/guide/getting-started) — أول عشر دقايق
-- [اختصارات الكيبورد](https://dev-nexus.pages.dev/ar/guide/shortcuts) — كلها
-- [الإعدادات](https://dev-nexus.pages.dev/ar/reference/settings) · [أين تُحفظ البيانات](https://dev-nexus.pages.dev/ar/reference/data)
-- [حل المشاكل](https://dev-nexus.pages.dev/ar/reference/troubleshooting)
+- [البداية](https://xtop.pages.dev/ar/guide/getting-started) — أول عشر دقايق
+- [اختصارات الكيبورد](https://xtop.pages.dev/ar/guide/shortcuts) — كلها
+- [الإعدادات](https://xtop.pages.dev/ar/reference/settings) · [أين تُحفظ البيانات](https://xtop.pages.dev/ar/reference/data)
+- [حل المشاكل](https://xtop.pages.dev/ar/reference/troubleshooting)
 
 ## عن الـ repo ده
 
-الـ repo ده هو بيت **التحميل والوثائق** لـ DevX. الكود المصدري مش منشور هنا.
+الـ repo ده هو بيت **التحميل والوثائق** لـ XTop. الكود المصدري مش منشور هنا.
 
 لقيت مشكلة أو عايز خاصية؟ افتح
-[issue](https://github.com/kareem-elgamal/devX/issues).
+[issue](https://github.com/kareem-elgamal/XTop/issues).
 
 </div>
 

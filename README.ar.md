@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://xtop.pages.dev/logo.png" width="96" alt="XTop" />
+<img src="https://xtop-app.pages.dev/logo.png" width="96" alt="XTop" />
 
 # XTop
 
@@ -10,14 +10,14 @@
 وخلّي الملاحظات والـ API والـ git والاجتماعات والتذكيرات على بُعد ضغطة زرار.
 
 [![تحميل](https://img.shields.io/github/v/release/kareem-elgamal/XTop?style=for-the-badge&color=0b6fc4&label=%D8%AA%D8%AD%D9%85%D9%8A%D9%84)](https://github.com/kareem-elgamal/XTop/releases/latest)
-[![الوثائق](https://img.shields.io/badge/docs-xtop.pages.dev-6b3fb0?style=for-the-badge)](https://xtop.pages.dev/ar/)
-[![ويندوز](https://img.shields.io/badge/Windows-10%20%2F%2011-555?style=for-the-badge)](https://xtop.pages.dev/ar/guide/download)
+[![الوثائق](https://img.shields.io/badge/docs-xtop-app.pages.dev-6b3fb0?style=for-the-badge)](https://xtop-app.pages.dev/ar/)
+[![ويندوز](https://img.shields.io/badge/Windows-10%20%2F%2011-555?style=for-the-badge)](https://xtop-app.pages.dev/ar/guide/download)
 
-[English](README.md) · [الوثائق](https://xtop.pages.dev/ar/) · [التحميل](https://github.com/kareem-elgamal/XTop/releases/latest)
+[English](README.md) · [الوثائق](https://xtop-app.pages.dev/ar/) · [التحميل](https://github.com/kareem-elgamal/XTop/releases/latest)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://xtop.pages.dev/shots/panel-ar-dark.png">
-  <img src="https://xtop.pages.dev/shots/panel-ar-light.png" width="620" alt="لوحة XTop: المجموعات والمشاريع وأيقونات الخدمات.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://xtop-app.pages.dev/shots/panel-ar-dark.png">
+  <img src="https://xtop-app.pages.dev/shots/panel-ar-light.png" width="620" alt="لوحة XTop: المجموعات والمشاريع وأيقونات الخدمات.">
 </picture>
 
 </div>
@@ -48,33 +48,33 @@ XTop مش بيفتح نافذة خاصة بيه — بيروح لـ **شريط �
 سطح المكتب. اضغط <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Space</kbd>، أو اضغط الزر
 العائم، أو أيقونة شريط المهام، عشان تفتح اللوحة — وخانة البحث بتكون جاهزة على طول.
 
-كمّل من **[البداية ←](https://xtop.pages.dev/ar/guide/getting-started)**
+كمّل من **[البداية ←](https://xtop-app.pages.dev/ar/guide/getting-started)**
 
 ## اللي جواه
 
 | | |
 | --- | --- |
-| **[مشاريعك بأي اسم](https://xtop.pages.dev/ar/services/panel)** | مجموعات وأسماء بديلة وبحث مرن. `Enter` بيفتح المحرر، و `Shift+Enter` بيفتح ترمنال — في ويندوز أو في WSL حسب المشروع. |
-| **[أوامر سريعة في ترمنال حقيقي](https://xtop.pages.dev/ar/services/commands-terminal)** | أوامر لكل مشروع ولكل مجموعة وأوامر عامة، بتشتغل في جلسة pty بتبويبات محتفظة بالمخرجات. |
-| **[اختبار API عارف مشروعك](https://xtop.pages.dev/ar/services/api)** | الـ base URL بييجي من `.env` بتاع المشروع نفسه، والطلبات المحفوظة بتتخزن جوه المشروع، و `Ctrl+Shift+A` بيفتح تبويب سريع من الكليب بورد. |
-| **[اجتماعات مفرَّغة على جهازك](https://xtop.pages.dev/ar/services/meetings)** | المايك وصوت النظام، التفريغ بيتم على جهازك بـ Whisper، وبعدين تلخيص لقرارات ومهام. |
-| **[ملاحظات Markdown على الهارد](https://xtop.pages.dev/ar/services/notes)** | دفتر عام + ملاحظات لكل مشروع، ملفات `.md` تقدر تعملها commit أو sync أو grep. |
-| **[معلومات Git](https://xtop.pages.dev/ar/services/git)** | الفرع الحالي، وكام commit قدام/ورا، وحالة الملفات، وتبديل الفروع، والرسم البياني للـ commits. |
-| **[مواقيت الصلاة والأذكار](https://xtop.pages.dev/ar/services/islamic)** | تنبيه بعد الأذان بدقائق، وزرار تأجيل بيهرب من الماوس، وأذكار الصباح والمساء بعدّادات. |
-| **[التذكيرات](https://xtop.pages.dev/ar/services/reminders)** | مرة واحدة أو متكررة، مع تأجيل، وبتفضل شغّالة حتى لو البرنامج اتقفل. |
-| **[النسخ الاحتياطي والاستعادة](https://xtop.pages.dev/ar/services/backup)** | نسخة `.zip` بضغطة أو بجدول زمني، في أي فولدر — وممكن يكون فولدر مزامن مع السحابة. |
-| **[مشاريع بدء التشغيل](https://xtop.pages.dev/ar/services/startup)** | مشاريع بتفتح نفسها في المحرر أو الترمنال أول ما البرنامج يشتغل. |
+| **[مشاريعك بأي اسم](https://xtop-app.pages.dev/ar/services/panel)** | مجموعات وأسماء بديلة وبحث مرن. `Enter` بيفتح المحرر، و `Shift+Enter` بيفتح ترمنال — في ويندوز أو في WSL حسب المشروع. |
+| **[أوامر سريعة في ترمنال حقيقي](https://xtop-app.pages.dev/ar/services/commands-terminal)** | أوامر لكل مشروع ولكل مجموعة وأوامر عامة، بتشتغل في جلسة pty بتبويبات محتفظة بالمخرجات. |
+| **[اختبار API عارف مشروعك](https://xtop-app.pages.dev/ar/services/api)** | الـ base URL بييجي من `.env` بتاع المشروع نفسه، والطلبات المحفوظة بتتخزن جوه المشروع، و `Ctrl+Shift+A` بيفتح تبويب سريع من الكليب بورد. |
+| **[اجتماعات مفرَّغة على جهازك](https://xtop-app.pages.dev/ar/services/meetings)** | المايك وصوت النظام، التفريغ بيتم على جهازك بـ Whisper، وبعدين تلخيص لقرارات ومهام. |
+| **[ملاحظات Markdown على الهارد](https://xtop-app.pages.dev/ar/services/notes)** | دفتر عام + ملاحظات لكل مشروع، ملفات `.md` تقدر تعملها commit أو sync أو grep. |
+| **[معلومات Git](https://xtop-app.pages.dev/ar/services/git)** | الفرع الحالي، وكام commit قدام/ورا، وحالة الملفات، وتبديل الفروع، والرسم البياني للـ commits. |
+| **[مواقيت الصلاة والأذكار](https://xtop-app.pages.dev/ar/services/islamic)** | تنبيه بعد الأذان بدقائق، وزرار تأجيل بيهرب من الماوس، وأذكار الصباح والمساء بعدّادات. |
+| **[التذكيرات](https://xtop-app.pages.dev/ar/services/reminders)** | مرة واحدة أو متكررة، مع تأجيل، وبتفضل شغّالة حتى لو البرنامج اتقفل. |
+| **[النسخ الاحتياطي والاستعادة](https://xtop-app.pages.dev/ar/services/backup)** | نسخة `.zip` بضغطة أو بجدول زمني، في أي فولدر — وممكن يكون فولدر مزامن مع السحابة. |
+| **[مشاريع بدء التشغيل](https://xtop-app.pages.dev/ar/services/startup)** | مشاريع بتفتح نفسها في المحرر أو الترمنال أول ما البرنامج يشتغل. |
 
 عربي وإنجليزي في كل النوافذ، الإنجليزية هي الافتراضية، و RTL كامل مع العربية.
 
 ## الوثائق
 
-كل حاجة على **[xtop.pages.dev](https://xtop.pages.dev/ar/)** بالعربي والإنجليزي:
+كل حاجة على **[xtop-app.pages.dev](https://xtop-app.pages.dev/ar/)** بالعربي والإنجليزي:
 
-- [البداية](https://xtop.pages.dev/ar/guide/getting-started) — أول عشر دقايق
-- [اختصارات الكيبورد](https://xtop.pages.dev/ar/guide/shortcuts) — كلها
-- [الإعدادات](https://xtop.pages.dev/ar/reference/settings) · [أين تُحفظ البيانات](https://xtop.pages.dev/ar/reference/data)
-- [حل المشاكل](https://xtop.pages.dev/ar/reference/troubleshooting)
+- [البداية](https://xtop-app.pages.dev/ar/guide/getting-started) — أول عشر دقايق
+- [اختصارات الكيبورد](https://xtop-app.pages.dev/ar/guide/shortcuts) — كلها
+- [الإعدادات](https://xtop-app.pages.dev/ar/reference/settings) · [أين تُحفظ البيانات](https://xtop-app.pages.dev/ar/reference/data)
+- [حل المشاكل](https://xtop-app.pages.dev/ar/reference/troubleshooting)
 
 ## عن الـ repo ده
 

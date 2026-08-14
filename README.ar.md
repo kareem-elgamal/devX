@@ -9,7 +9,7 @@
 لوحة عائمة للمطوّرين — دوّر على مشاريعك، افتحها في المحرر الصح والترمنال الصح،
 وخلّي الملاحظات والـ API والـ git والاجتماعات والتذكيرات على بُعد ضغطة زرار.
 
-[![تحميل](https://img.shields.io/badge/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-v0.2.11-0b6fc4?style=for-the-badge)](https://github.com/kareem-elgamal/XTop/releases/latest)
+[![تحميل](https://img.shields.io/github/v/release/kareem-elgamal/XTop?style=for-the-badge&color=0b6fc4&label=%D8%AA%D8%AD%D9%85%D9%8A%D9%84)](https://github.com/kareem-elgamal/XTop/releases/latest)
 [![الوثائق](https://img.shields.io/badge/docs-xtop.pages.dev-6b3fb0?style=for-the-badge)](https://xtop.pages.dev/ar/)
 [![ويندوز](https://img.shields.io/badge/Windows-10%20%2F%2011-555?style=for-the-badge)](https://xtop.pages.dev/ar/guide/download)
 

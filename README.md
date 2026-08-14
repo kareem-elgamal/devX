@@ -10,7 +10,7 @@ A floating launcher for developers — search your projects, open them in the
 right IDE and the right shell, and keep notes, requests, git, meetings and
 reminders one keystroke away.
 
-[![Download](https://img.shields.io/badge/download-v0.2.11-0b6fc4?style=for-the-badge)](https://github.com/kareem-elgamal/XTop/releases/latest)
+[![Download](https://img.shields.io/github/v/release/kareem-elgamal/XTop?style=for-the-badge&color=0b6fc4&label=download)](https://github.com/kareem-elgamal/XTop/releases/latest)
 [![Documentation](https://img.shields.io/badge/docs-xtop.pages.dev-6b3fb0?style=for-the-badge)](https://xtop.pages.dev)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-555?style=for-the-badge)](https://xtop.pages.dev/guide/download)
 
